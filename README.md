@@ -13,10 +13,11 @@ and updating applications through MCP tools, not just reading a file.
 
 ## Why I built it — and what it's actually for
 
-I'm a laid-off Lead Technical Program Manager, and by the time I built this
-I had sent 150+ applications with no single place to see them — just a
-folder of PDFs named inconsistently (`Company_Role_Date.pdf`,
-`RoleCompanyDate.pdf`, some with location, some without).
+I'm a Lead Technical Program Manager currently in an active job search, and
+by the time I built this I had sent 150+ applications with no single place
+to see them — just a folder of PDFs named inconsistently
+(`Company_Role_Date.pdf`, `RoleCompanyDate.pdf`, some with location, some
+without).
 
 This tracker is deliberately **not** about callbacks or interview status.
 The question I actually care about is: across everything I've applied to,
