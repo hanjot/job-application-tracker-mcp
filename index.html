@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Skills Demanded — 151 Real Job Applications</title>
+<style>
+  .viz-root {
+    color-scheme: light;
+    --surface-1:      #fcfcfb;
+    --page:           #f9f9f7;
+    --text-primary:   #0b0b0b;
+    --text-secondary: #52514e;
+    --text-muted:     #898781;
+    --grid:           #e1e0d9;
+    --baseline:       #c3c2b7;
+    --bar:            #2a78d6;
+    --bar-light:      #cde2fb;
+    --border:         rgba(11,11,11,0.10);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:where(:not([data-theme="light"])) .viz-root {
+      color-scheme: dark;
+      --surface-1:      #1a1a19;
+      --page:           #0d0d0d;
+      --text-primary:   #ffffff;
+      --text-secondary: #c3c2b7;
+      --text-muted:     #898781;
+      --grid:           #2c2c2a;
+      --baseline:       #383835;
+      --bar:            #3987e5;
+      --bar-light:      #184f95;
+      --border:         rgba(255,255,255,0.10);
+    }
+  }
+  :root[data-theme="dark"] .viz-root {
+    color-scheme: dark;
+    --surface-1:      #1a1a19;
+    --page:           #0d0d0d;
+    --text-primary:   #ffffff;
+    --text-secondary: #c3c2b7;
+    --text-muted:     #898781;
+    --grid:           #2c2c2a;
+    --baseline:       #383835;
+    --bar:            #3987e5;
+    --bar-light:      #184f95;
+    --border:         rgba(255,255,255,0.10);
+  }
+
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    background: var(--page);
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    color: var(--text-primary);
+    padding: 24px 16px 48px;
+  }
+  .wrap { max-width: 760px; margin: 0 auto; }
+  .card {
+    background: var(--surface-1);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 24px;
+    margin-bottom: 20px;
+  }
+  h1 { font-size: 19px; margin: 0 0 4px; }
+  .sub { color: var(--text-secondary); font-size: 13px; margin: 0 0 24px; line-height: 1.5; }
+  .toggle-row { display: flex; justify-content: flex-end; margin-bottom: 12px; }
+  .toggle-btn {
+    font-size: 12px; color: var(--text-secondary); background: none;
+    border: 1px solid var(--border); border-radius: 6px; padding: 5px 10px;
+    cursor: pointer; font-family: inherit;
+  }
+  .toggle-btn:hover { color: var(--text-primary); }
+
+  .row { display: flex; align-items: center; margin-bottom: 2px; height: 28px; position: relative; }
+  .row-label {
+    width: 220px; flex-shrink: 0; font-size: 13px; color: var(--text-secondary);
+    text-align: right; padding-right: 10px; line-height: 1.2;
+  }
+  .row-track { flex: 1; position: relative; height: 20px; }
+  .row-bar {
+    position: absolute; left: 0; top: 0; height: 20px; border-radius: 4px;
+    background: var(--bar); cursor: default;
+  }
+  .row-value {
+    position: absolute; top: 0; height: 20px; display: flex; align-items: center;
+    font-size: 12px; color: var(--text-primary); font-variant-numeric: tabular-nums;
+    padding-left: 6px; white-space: nowrap;
+  }
+  .row.core .row-bar { background: var(--bar-light); }
+  .row.core .row-label { color: var(--text-muted); }
+
+  .tooltip {
+    position: absolute; background: var(--surface-1); border: 1px solid var(--border);
+    border-radius: 8px; padding: 8px 10px; font-size: 12px; color: var(--text-primary);
+    box-shadow: 0 4px 16px rgba(0,0,0,0.15); pointer-events: none; opacity: 0;
+    transition: opacity 0.1s; white-space: nowrap; z-index: 10;
+  }
+  .tooltip.show { opacity: 1; }
+  .tooltip .t-count { font-weight: 600; }
+  .tooltip .t-note { color: var(--text-secondary); display: block; margin-top: 2px; }
+
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--grid); }
+  th { color: var(--text-secondary); font-weight: 600; }
+  td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
+  .rank { color: var(--text-muted); width: 24px; }
+  .foot { font-size: 12px; color: var(--text-muted); margin-top: 14px; line-height: 1.5; }
+  .pill {
+    display: inline-block; font-size: 11px; padding: 1px 7px; border-radius: 10px;
+    background: var(--bar-light); color: var(--text-primary); margin-left: 6px;
+  }
+</style>
+</head>
+<body>
+<div class="viz-root wrap">
+
+  <div class="card">
+    <h1>What the market's actually asking for</h1>
+    <p class="sub">Skills flagged from the job titles of all 151 real applications sent Aug 10 – Sept 16, 2026. Program/Project Management is shown for scale but greyed out — that's your existing core strength, not a gap. Hover a bar for detail; tags are inferred from titles only, not the full job description.</p>
+
+    <div class="toggle-row">
+      <button class="toggle-btn" id="toggleBtn" onclick="toggleView()">View as table</button>
+    </div>
+
+    <div id="chartView"></div>
+    <div id="tableView" style="display:none;">
+      <table>
+        <thead><tr><th>Skill</th><th class="num">Applications</th><th class="num">% of 151</th></tr></thead>
+        <tbody id="tableBody"></tbody>
+      </table>
+    </div>
+    <div class="foot">35 of 151 applications had no recognizable skill keyword in their title and aren't tagged to any category above.</div>
+  </div>
+
+  <div class="card">
+    <h1>Course priority, ranked by real demand in your own search</h1>
+    <p class="sub">Same skill categories, ordered by how often they actually showed up — excluding Program/Project Management, which you already have. Courses are pulled from your existing AI Course Priority Plan where one exists.</p>
+    <table>
+      <thead><tr><th class="rank">#</th><th>Skill</th><th class="num">Apps</th><th>Recommended course</th></tr></thead>
+      <tbody id="courseBody"></tbody>
+    </table>
+    <div class="foot">Salesforce and SAP appear in only 1 and 0 of your 151 applications' titles respectively — based on your own search so far, they don't look like the highest-leverage use of study time right now, even though they came up in conversation.</div>
+  </div>
+
+</div>
+
+<div class="tooltip" id="tooltip"></div>
+
+<script>
+const data = [
+  {label: "Program / Project Management", count: 105, core: true, note: "Your existing core strength — no course needed"},
+  {label: "AI / GenAI / ML", count: 20, note: "Combines general AI/ML and GenAI/agentic-specific mentions"},
+  {label: "Cybersecurity", count: 7},
+  {label: "Data / Analytics", count: 4},
+  {label: "Infrastructure / DevOps", count: 4},
+  {label: "Compliance / Risk / Governance", count: 3},
+  {label: "Payments / FinTech", count: 1},
+  {label: "Agile / Scrum", count: 1},
+  {label: "Cloud", count: 1},
+  {label: "Salesforce", count: 1},
+];
+const total = 151;
+const maxCount = Math.max(...data.map(d => d.count));
+
+const chartView = document.getElementById('chartView');
+const tooltip = document.getElementById('tooltip');
+
+data.forEach(d => {
+  const row = document.createElement('div');
+  row.className = 'row' + (d.core ? ' core' : '');
+  const pct = (d.count / maxCount) * 100;
+  row.innerHTML = `
+    <div class="row-label">${d.label}</div>
+    <div class="row-track">
+      <div class="row-bar" style="width:${pct}%"></div>
+      <div class="row-value" style="left:calc(${pct}% + 6px)">${d.count}</div>
+    </div>
+  `;
+  const bar = row.querySelector('.row-bar');
+  bar.addEventListener('mousemove', (e) => {
+    const pctOfTotal = ((d.count / total) * 100).toFixed(1);
+    tooltip.innerHTML = `<span class="t-count">${d.label}: ${d.count} of 151 applications (${pctOfTotal}%)</span>${d.note ? `<span class="t-note">${d.note}</span>` : ''}`;
+    tooltip.style.left = (e.pageX + 14) + 'px';
+    tooltip.style.top = (e.pageY - 10) + 'px';
+    tooltip.classList.add('show');
+  });
+  bar.addEventListener('mouseleave', () => tooltip.classList.remove('show'));
+  chartView.appendChild(row);
+});
+
+const tableBody = document.getElementById('tableBody');
+data.forEach(d => {
+  const tr = document.createElement('tr');
+  tr.innerHTML = `<td>${d.label}${d.core ? '<span class="pill">core skill</span>' : ''}</td><td class="num">${d.count}</td><td class="num">${((d.count/total)*100).toFixed(1)}%</td>`;
+  tableBody.appendChild(tr);
+});
+
+function toggleView() {
+  const chart = document.getElementById('chartView');
+  const table = document.getElementById('tableView');
+  const btn = document.getElementById('toggleBtn');
+  const showingChart = chart.style.display !== 'none';
+  chart.style.display = showingChart ? 'none' : '';
+  table.style.display = showingChart ? '' : 'none';
+  btn.textContent = showingChart ? 'View as chart' : 'View as table';
+}
+
+// course priority table -- ranked by real demand, excluding the core PM skill
+const courses = [
+  {label: "AI / GenAI / ML", count: 20, course: "MCP: Build Rich-Context AI Apps with Anthropic (DeepLearning.AI) — already your #1 pick; this data confirms it. Follow with AI Agents, Clearly Explained and Agentic AI (Andrew Ng)."},
+  {label: "Cybersecurity", count: 7, course: "Certified in Cybersecurity (CC) — ISC2, or Security/Compliance/Identity Fundamentals (Microsoft Learn, SC-900) as the free-first option."},
+  {label: "Data / Analytics", count: 4, course: "Power BI (PL-300) Guided Learning Path — you already build these dashboards weekly; formalizing it is fast leverage."},
+  {label: "Infrastructure / DevOps", count: 4, course: "AWS Cloud Practitioner Essentials — builds the cloud vocabulary these titles assume."},
+  {label: "Compliance / Risk / Governance", count: 3, course: "AI Risk Management Framework (NIST) + AI Security & Governance Certificate (Securiti) — both already Tier 1 in your plan."},
+  {label: "Payments / FinTech", count: 1, course: "No dedicated course in your plan yet — your Visa payments background already covers this; low priority to add a course."},
+  {label: "Agile / Scrum", count: 1, course: "You're already CSM-certified — Scalable Agile for Teams & Leaders (Jira Align) only if a specific role asks for it."},
+  {label: "Cloud", count: 1, course: "Same AWS Cloud Practitioner path as Infrastructure/DevOps above."},
+  {label: "Salesforce", count: 1, course: "Only 1 of 151 titles mentioned it — Trailhead (Salesforce's own free training) is the fast option if a specific role requires it, not a standing priority."},
+];
+const courseBody = document.getElementById('courseBody');
+courses.forEach((c, i) => {
+  const tr = document.createElement('tr');
+  tr.innerHTML = `<td class="rank">${i+1}</td><td>${c.label}</td><td class="num">${c.count}</td><td>${c.course}</td>`;
+  courseBody.appendChild(tr);
+});
+</script>
+</body>
+</html>
