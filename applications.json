@@ -1,0 +1,1959 @@
+[
+  {
+    "company": null,
+    "role": null,
+    "source_file": "Gagandeep_Kaur(Hanjot)_Resume_FINAL.pdf",
+    "applied_date": "2026-08-07",
+    "date_source": "mtime",
+    "skills_required": [],
+    "notes": "Not an application; a saved copy of the base resume.",
+    "excluded": true,
+    "id": 1
+  },
+  {
+    "company": "Chalk",
+    "role": "EngagementMngr",
+    "source_file": "Chalk_EngagementMngr_SFO_Aug10.pdf",
+    "applied_date": "2026-08-10",
+    "date_source": "filename",
+    "skills_required": [],
+    "notes": "",
+    "excluded": false,
+    "id": 2
+  },
+  {
+    "company": "Cisco",
+    "role": "ChangeMngmentManager SanjoseRemote",
+    "source_file": "Cisco_ChangeMngmentManager_10Aug_SanjoseRemote.pdf",
+    "applied_date": "2026-08-10",
+    "date_source": "filename",
+    "skills_required": [],
+    "notes": "",
+    "excluded": false,
+    "id": 3
+  },
+  {
+    "company": "Crusoe",
+    "role": "Senior Staff Customer Operations Program Manager",
+    "source_file": "Crusoe_Senior Staff Customer Operations Program Manager_SF_10Aug.pdf",
+    "applied_date": "2026-08-10",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 4
+  },
+  {
+    "company": "GoogleTPM",
+    "role": "DataCenterNetworking",
+    "source_file": "GoogleTPM_DataCenterNetworking_Sunnyvale10Aug.pdf",
+    "applied_date": "2026-08-10",
+    "date_source": "filename",
+    "skills_required": [
+      "Data / Analytics"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 5
+  },
+  {
+    "company": "Ladders",
+    "role": "SrStaff,TechnicalProgramManagement",
+    "source_file": "Ladders_SrStaff,TechnicalProgramManagement_Aug10_MountainView.pdf",
+    "applied_date": "2026-08-10",
+    "date_source": "filename",
+    "skills_required": [],
+    "notes": "",
+    "excluded": false,
+    "id": 6
+  },
+  {
+    "company": "Ladders",
+    "role": "StaffTechnicalProgramMgr",
+    "source_file": "Ladders_StaffTechnicalProgramMgr_Redwood_Aug10.pdf",
+    "applied_date": "2026-08-10",
+    "date_source": "filename",
+    "skills_required": [],
+    "notes": "",
+    "excluded": false,
+    "id": 7
+  },
+  {
+    "company": "LamSearch",
+    "role": "Linkd QualityProgramManager",
+    "source_file": "LamSearch_Linkd_Fremont_QualityProgramManager_10AUG.pdf",
+    "applied_date": "2026-08-10",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 8
+  },
+  {
+    "company": "Mercor",
+    "role": "EngagementManagerSF relocation",
+    "source_file": "Mercor_EngagementManagerSF_relocation_10Aug.pdf",
+    "applied_date": "2026-08-10",
+    "date_source": "filename",
+    "skills_required": [],
+    "notes": "",
+    "excluded": false,
+    "id": 9
+  },
+  {
+    "company": "NetApp",
+    "role": "Revenue Enablement Platform Program Manager",
+    "source_file": "NetApp_Revenue Enablement Platform Program Manager_SanJose_10Aug.pdf",
+    "applied_date": "2026-08-10",
+    "date_source": "filename",
+    "skills_required": [
+      "Infrastructure / DevOps",
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 10
+  },
+  {
+    "company": "ScaleAI",
+    "role": "TechnicalProgramManagerPlatform",
+    "source_file": "ScaleAI_TechnicalProgramManagerPlatform_10Aug_SFO.pdf",
+    "applied_date": "2026-08-10",
+    "date_source": "filename",
+    "skills_required": [
+      "Infrastructure / DevOps",
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 11
+  },
+  {
+    "company": "TikTok",
+    "role": "StaffTechnicalProgramManagerSellerSuccessOnboarding",
+    "source_file": "TikTok_StaffTechnicalProgramManagerSellerSuccessOnboarding_SanJose_10Aug.pdf",
+    "applied_date": "2026-08-10",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 12
+  },
+  {
+    "company": "Zoox",
+    "role": "SeniorStaffTechnicalProgramManagerCoreSoftware",
+    "source_file": "Zoox_SeniorStaffTechnicalProgramManagerCoreSoftware _10Aug_FC.pdf",
+    "applied_date": "2026-08-10",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 13
+  },
+  {
+    "company": "Fox Rothschild",
+    "role": "IS Project Manager",
+    "source_file": "IS Project Manager_Fox Rothschild/ISProjectManager10AUGLinkedIN.pdf",
+    "applied_date": "2026-08-10",
+    "date_source": "mtime",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "via recruiter folder 'IS Project Manager_Fox Rothschild'",
+    "excluded": false,
+    "id": 14
+  },
+  {
+    "company": "Amazon",
+    "role": "Senior Technical Program Manager, Kuiper Devices and Systems Infrastructure",
+    "source_file": "Amazon_Senior Technical Program Manager, Kuiper Devices and Systems Infrastructure_AUG11_Sunnyvale.pdf",
+    "applied_date": "2026-08-11",
+    "date_source": "filename",
+    "skills_required": [
+      "Infrastructure / DevOps",
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 15
+  },
+  {
+    "company": "Amazon",
+    "role": "SeniorCustomerSolutionsManagerStrategic Accounts",
+    "source_file": "Amazon_SeniorCustomerSolutionsManagerStrategic Accounts_PaloAlto_AUG11.pdf",
+    "applied_date": "2026-08-11",
+    "date_source": "filename",
+    "skills_required": [],
+    "notes": "",
+    "excluded": false,
+    "id": 16
+  },
+  {
+    "company": "Amazon",
+    "role": "SeniorCustomerSolutionsManagerStrategicAccounts",
+    "source_file": "Amazon_SeniorCustomerSolutionsManagerStrategicAccounts_SFO_11AUG.pdf",
+    "applied_date": "2026-08-11",
+    "date_source": "filename",
+    "skills_required": [],
+    "notes": "",
+    "excluded": false,
+    "id": 17
+  },
+  {
+    "company": "Amazon",
+    "role": "SrTechnicalProgramManagerAdvertiserGrowthTechnologies",
+    "source_file": "Amazon_SrTechnicalProgramManagerAdvertiserGrowthTechnologies_AUG11_PaloAlto.pdf",
+    "applied_date": "2026-08-11",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 18
+  },
+  {
+    "company": "Amazon",
+    "role": "SrTechProgramMgr Amazon Music",
+    "source_file": "Amazon_SrTechProgramMgr_Amazon_Music_Aug11_SFO.pdf",
+    "applied_date": "2026-08-11",
+    "date_source": "filename",
+    "skills_required": [],
+    "notes": "",
+    "excluded": false,
+    "id": 19
+  },
+  {
+    "company": "BOX",
+    "role": "Senior Program Manager, Release Management",
+    "source_file": "BOX_Senior Program Manager, Release Management _AUG11_SFO.pdf",
+    "applied_date": "2026-08-11",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 20
+  },
+  {
+    "company": "Cobalt",
+    "role": "EngagementManagerFrontierAI",
+    "source_file": "Cobalt_EngagementManagerFrontierAI_11AUG_SFO.pdf",
+    "applied_date": "2026-08-11",
+    "date_source": "filename",
+    "skills_required": [
+      "AI / GenAI / ML"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 21
+  },
+  {
+    "company": "Coupang",
+    "role": "Senior Staff Technical Program Manager MoutainView",
+    "source_file": "Coupang_Senior Staff Technical Program Manager_MoutainView_11AUG.pdf",
+    "applied_date": "2026-08-11",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 22
+  },
+  {
+    "company": "Diligente",
+    "role": "Technical Program Manager \u2013 Enterprise QA",
+    "source_file": "Diligente _Technical Program Manager \u2013 Enterprise QA_SFO_AUG11.pdf",
+    "applied_date": "2026-08-11",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 23
+  },
+  {
+    "company": "LamSearch",
+    "role": "Principal Program Manager, Global Operations AI",
+    "source_file": "LamSearch_Principal Program Manager, Global Operations AI_Livermore_Aug11.pdf",
+    "applied_date": "2026-08-11",
+    "date_source": "filename",
+    "skills_required": [
+      "AI / GenAI / ML",
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 24
+  },
+  {
+    "company": "LegoraEngagement ManagerEnterprise",
+    "role": "(role unclear from filename)",
+    "source_file": "LegoraEngagement ManagerEnterprise_11AUG_SFO.pdf",
+    "applied_date": "2026-08-11",
+    "date_source": "filename",
+    "skills_required": [],
+    "notes": "",
+    "excluded": false,
+    "id": 25
+  },
+  {
+    "company": "Meta",
+    "role": "TechnicalProgramManagerWearablesAI",
+    "source_file": "Meta_TechnicalProgramManagerWearablesAI_Sunnyvale_Aug11.pdf",
+    "applied_date": "2026-08-11",
+    "date_source": "filename",
+    "skills_required": [
+      "AI / GenAI / ML",
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 26
+  },
+  {
+    "company": "Microsoft",
+    "role": "SeniorBusinessProgramManager",
+    "source_file": "Microsoft_SeniorBusinessProgramManager_AUG11_Remote.pdf",
+    "applied_date": "2026-08-11",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 27
+  },
+  {
+    "company": "Microsoft",
+    "role": "SeniorTechnicalProgramManager",
+    "source_file": "Microsoft_SeniorTechnicalProgramManager_Aug11.pdf",
+    "applied_date": "2026-08-11",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 28
+  },
+  {
+    "company": "OPenAI",
+    "role": "Senior Program Manager, Consumer Device Safety Operations",
+    "source_file": "OPenAI_Senior Program Manager, Consumer Device Safety Operations _AUG11_SFO.pdf",
+    "applied_date": "2026-08-11",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 29
+  },
+  {
+    "company": "Uber",
+    "role": "Program Leader, Global U4B CX",
+    "source_file": "Uber_Program Leader, Global U4B CX_SFO_AUG11.pdf",
+    "applied_date": "2026-08-11",
+    "date_source": "filename",
+    "skills_required": [],
+    "notes": "",
+    "excluded": false,
+    "id": 30
+  },
+  {
+    "company": "VISA",
+    "role": "SeniorProductDeliveryManager",
+    "source_file": "VISA_SeniorProductDeliveryManager_FC_11AUG.pdf",
+    "applied_date": "2026-08-11",
+    "date_source": "filename",
+    "skills_required": [],
+    "notes": "",
+    "excluded": false,
+    "id": 31
+  },
+  {
+    "company": "AditiConsul",
+    "role": "Program Manager",
+    "source_file": "AditiConsul_Program Manager_Remote_AUG12.pdf",
+    "applied_date": "2026-08-12",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 32
+  },
+  {
+    "company": "Anthropic",
+    "role": "Commercial Operations Program Manager",
+    "source_file": "Anthropic_Commercial Operations Program Manager_12AUG_SFO_FTE.pdf",
+    "applied_date": "2026-08-12",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 33
+  },
+  {
+    "company": "AnthropicBusiness Systems AnalystSFO",
+    "role": "(role unclear from filename)",
+    "source_file": "AnthropicBusiness Systems AnalystSFO_12AUG.pdf",
+    "applied_date": "2026-08-12",
+    "date_source": "filename",
+    "skills_required": [],
+    "notes": "",
+    "excluded": false,
+    "id": 34
+  },
+  {
+    "company": "BeeTalent",
+    "role": "ITProgramManager",
+    "source_file": "BeeTalent_ITProgramManager_SFO_contract.pdf",
+    "applied_date": "2026-08-12",
+    "date_source": "mtime",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 35
+  },
+  {
+    "company": "ClifyX",
+    "role": "AI Program Manager",
+    "source_file": "ClifyX_AI Program Manager_SanJose_AUG12.pdf",
+    "applied_date": "2026-08-12",
+    "date_source": "filename",
+    "skills_required": [
+      "AI / GenAI / ML",
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 36
+  },
+  {
+    "company": "Consul",
+    "role": "Program Manager",
+    "source_file": "Consul_Program Manager_Remote__AUG12.pdf",
+    "applied_date": "2026-08-12",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 37
+  },
+  {
+    "company": "ContractStaffingRecruiters",
+    "role": "ProgramManager",
+    "source_file": "ContractStaffingRecruiters_ProgramManager_Remote_AUG12.pdf",
+    "applied_date": "2026-08-12",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 38
+  },
+  {
+    "company": "CypressHCM",
+    "role": "Program Manager - BPCI III",
+    "source_file": "CypressHCM_Program Manager - BPCI III_SanJose_12Aug.pdf",
+    "applied_date": "2026-08-12",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 39
+  },
+  {
+    "company": "ETHOS",
+    "role": "ExpertOpportunityProgramManagerPMO Lead",
+    "source_file": "ETHOS_ExpertOpportunityProgramManagerPMO Lead_Remote_AUG12.pdf",
+    "applied_date": "2026-08-12",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 40
+  },
+  {
+    "company": "GoogleDeepMind",
+    "role": "Organization AI Research Program Manager, DeepMind (Fixed-Term Contract)",
+    "source_file": "GoogleDeepMind_Organization AI Research Program Manager, DeepMind (Fixed-Term Contract).pdf",
+    "applied_date": "2026-08-12",
+    "date_source": "mtime",
+    "skills_required": [
+      "AI / GenAI / ML",
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 41
+  },
+  {
+    "company": "HorizontalTalent",
+    "role": "Technical Program Manager",
+    "source_file": "HorizontalTalent_Technical Program Manager_AUG12_FC_Hybrid.pdf",
+    "applied_date": "2026-08-12",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 42
+  },
+  {
+    "company": "INSPYRSolutions",
+    "role": "Engineering Project Manager",
+    "source_file": "INSPYRSolutions_Engineering Project Manager_Cupertino_COntract.pdf",
+    "applied_date": "2026-08-12",
+    "date_source": "mtime",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 43
+  },
+  {
+    "company": "Intuit",
+    "role": "Principal Technical Program Manager",
+    "source_file": "Intuit_Principal Technical Program Manager_MountainView_AUG12_FullTime.pdf",
+    "applied_date": "2026-08-12",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 44
+  },
+  {
+    "company": "JackJill",
+    "role": "Strategic Project LeadData OperationsTuring",
+    "source_file": "JackJill_Strategic Project LeadData OperationsTuring_SFO_12AUG.pdf",
+    "applied_date": "2026-08-12",
+    "date_source": "filename",
+    "skills_required": [
+      "Data / Analytics"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 45
+  },
+  {
+    "company": "LamResearch",
+    "role": "Digital Transformation Program Manager",
+    "source_file": "LamResearch_Digital Transformation Program Manager_Fremont_12AUG.pdf",
+    "applied_date": "2026-08-12",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 46
+  },
+  {
+    "company": "Microsoft",
+    "role": "Program Manager",
+    "source_file": "Microsoft_Program Manager_AUG12.pdf",
+    "applied_date": "2026-08-12",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 47
+  },
+  {
+    "company": "NewYorkTechnologyPartners",
+    "role": "Project Manager",
+    "source_file": "NewYorkTechnologyPartners_Project Manager_SFO_Contract.pdf",
+    "applied_date": "2026-08-12",
+    "date_source": "mtime",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 48
+  },
+  {
+    "company": "ProjectManagementInstitute",
+    "role": "AI Program Manager",
+    "source_file": "ProjectManagementInstitute_AI Program Manager__AUG12_Remote.pdf",
+    "applied_date": "2026-08-12",
+    "date_source": "filename",
+    "skills_required": [
+      "AI / GenAI / ML",
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 49
+  },
+  {
+    "company": "RussellTobin",
+    "role": "GTM Onboarding Program Manager",
+    "source_file": "RussellTobin _GTM Onboarding Program Manager_Contract.pdf",
+    "applied_date": "2026-08-12",
+    "date_source": "mtime",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 50
+  },
+  {
+    "company": "TechDoQuest",
+    "role": "Product Lifecycle Management Consultant",
+    "source_file": "TechDoQuest_Product Lifecycle Management Consultant_AUG12.pdf",
+    "applied_date": "2026-08-12",
+    "date_source": "filename",
+    "skills_required": [],
+    "notes": "",
+    "excluded": false,
+    "id": 51
+  },
+  {
+    "company": "Uber",
+    "role": "Sr Program Manager, Tech",
+    "source_file": "Uber_Sr Program Manager, Tech_SFO_12AUG_Contract.pdf",
+    "applied_date": "2026-08-12",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 52
+  },
+  {
+    "company": "Ursus",
+    "role": "Program Manager V",
+    "source_file": "Ursus_Program Manager V_MeloPark.pdf",
+    "applied_date": "2026-08-12",
+    "date_source": "mtime",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 53
+  },
+  {
+    "company": "Airtable",
+    "role": "ProgramManagerProfessionalServices",
+    "source_file": "Airtable_ProgramManagerProfessionalServices_West-AUG13.pdf",
+    "applied_date": "2026-08-13",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 54
+  },
+  {
+    "company": "BayOneSolutions",
+    "role": "TechnicalProgramManager",
+    "source_file": "BayOneSolutions_TechnicalProgramManager_13AUG_SANJOSE_REMOTE.pdf",
+    "applied_date": "2026-08-13",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 55
+  },
+  {
+    "company": "Cypress",
+    "role": "Engineering Program Manager",
+    "source_file": "Cypress_Engineering Program Manager_SanJose.pdf",
+    "applied_date": "2026-08-13",
+    "date_source": "mtime",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 56
+  },
+  {
+    "company": "Dexian",
+    "role": "Project Manager",
+    "source_file": "Dexian_Project Manager_MountainView_AUG13.pdf",
+    "applied_date": "2026-08-13",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 57
+  },
+  {
+    "company": "GenenteSFO",
+    "role": "(role unclear from filename)",
+    "source_file": "GenenteSFO_13AUG.pdf",
+    "applied_date": "2026-08-13",
+    "date_source": "filename",
+    "skills_required": [],
+    "notes": "",
+    "excluded": false,
+    "id": 58
+  },
+  {
+    "company": "InfiCareStaffing",
+    "role": "ProgramManager",
+    "source_file": "InfiCareStaffing_ProgramManager_13AUG_SanRamon.pdf",
+    "applied_date": "2026-08-13",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 59
+  },
+  {
+    "company": "Kforce",
+    "role": "Project ManagerIII",
+    "source_file": "Kforce_Project ManagerIII_MountainView_13AUG.pdf",
+    "applied_date": "2026-08-13",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 60
+  },
+  {
+    "company": "NeerInfoPLMEngineering Systems Program Manager",
+    "role": "(role unclear from filename)",
+    "source_file": "NeerInfoPLMEngineering Systems Program Manager_13AUG_Fremont.pdf",
+    "applied_date": "2026-08-13",
+    "date_source": "filename",
+    "skills_required": [],
+    "notes": "",
+    "excluded": false,
+    "id": 61
+  },
+  {
+    "company": "Walmart",
+    "role": "Distinguished,TechnicalProgramManager",
+    "source_file": "Walmart_Distinguished,TechnicalProgramManager_Sunnyvale_13AUG.pdf",
+    "applied_date": "2026-08-13",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 62
+  },
+  {
+    "company": "Workday",
+    "role": "Senior Program Manager, Security (Product Dev)",
+    "source_file": "Workday_Senior Program Manager, Security (Product Dev) _AUG13_Pleasonton.pdf",
+    "applied_date": "2026-08-13",
+    "date_source": "filename",
+    "skills_required": [
+      "Cybersecurity",
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 63
+  },
+  {
+    "company": "XyantServices",
+    "role": "SrProgramManagerSalesEnablement",
+    "source_file": "XyantServices_SrProgramManagerSalesEnablement_SanJose_13AUG.pdf",
+    "applied_date": "2026-08-13",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 64
+  },
+  {
+    "company": "Adobe",
+    "role": "Sr. Program Manager",
+    "source_file": "Adobe_Sr. Program Manager_SanJose.pdf",
+    "applied_date": "2026-08-14",
+    "date_source": "mtime",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 65
+  },
+  {
+    "company": "Indeed",
+    "role": "CreateMusicGRoup Director ProgramMgmnt",
+    "source_file": "Indeed_CreateMusicGRoup_Director ProgramMgmnt_Remote_FTE_Aug14.pdf",
+    "applied_date": "2026-08-14",
+    "date_source": "filename",
+    "skills_required": [],
+    "notes": "",
+    "excluded": false,
+    "id": 66
+  },
+  {
+    "company": "JpMorgan",
+    "role": "PrincipalTechnicalProgramManagerGraphite Payments",
+    "source_file": "JpMorgan_PrincipalTechnicalProgramManagerGraphite Payments_AUG17.pdf",
+    "applied_date": "2026-08-17",
+    "date_source": "filename",
+    "skills_required": [
+      "Payments / FinTech",
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 67
+  },
+  {
+    "company": "KLA",
+    "role": "SrProgramManagerAIAdoptionChangeManagement",
+    "source_file": "KLA_SrProgramManagerAIAdoptionChangeManagement_Aug17.pdf",
+    "applied_date": "2026-08-17",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 68
+  },
+  {
+    "company": "Adobe",
+    "role": "TechnicalEngProgramManager",
+    "source_file": "Adobe_TechnicalEngProgramManager_SanJose18AUG.pdf",
+    "applied_date": "2026-08-18",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 69
+  },
+  {
+    "company": "Anthropic",
+    "role": "TechnicalProgramManagerAPIPlatform",
+    "source_file": "Anthropic_TechnicalProgramManagerAPIPlatform_SFO_18AUG.pdf",
+    "applied_date": "2026-08-18",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 70
+  },
+  {
+    "company": "ApexSystems",
+    "role": "TechnicalProjectProgramManagementTechnicalProgramManager",
+    "source_file": "ApexSystems_TechnicalProjectProgramManagementTechnicalProgramManager_Aug18_COntract.pdf",
+    "applied_date": "2026-08-18",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 71
+  },
+  {
+    "company": "Aspire, Jordan",
+    "role": "ProgramManagerApplication Security",
+    "source_file": "Aspire, Jordan_ProgramManagerApplication Security_rEMOTE_18aug.pdf",
+    "applied_date": "2026-08-18",
+    "date_source": "filename",
+    "skills_required": [
+      "Cybersecurity",
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 72
+  },
+  {
+    "company": "GSPANN",
+    "role": "AI Program Manager",
+    "source_file": "GSPANN_AI Program Manager__18AUG_Fremont.pdf",
+    "applied_date": "2026-08-18",
+    "date_source": "filename",
+    "skills_required": [
+      "AI / GenAI / ML",
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 73
+  },
+  {
+    "company": "InnovatixTechnologyPartnersProgramManagerDataSecurity",
+    "role": "18AUGSanJose",
+    "source_file": "InnovatixTechnologyPartnersProgramManagerDataSecurity18AUGSanJose.pdf",
+    "applied_date": "2026-08-18",
+    "date_source": "mtime",
+    "skills_required": [],
+    "notes": "",
+    "excluded": false,
+    "id": 74
+  },
+  {
+    "company": "KPI",
+    "role": "Agent Program Manager",
+    "source_file": "KPI_Agent Program Manager_Fremont_COntract_18AUG.pdf",
+    "applied_date": "2026-08-18",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 75
+  },
+  {
+    "company": "LamSearch",
+    "role": "AI Agent Program Manager Brahmdeep",
+    "source_file": "LamSearch_AI Agent Program Manager_Fremont_AUG18_Brahmdeep.pdf",
+    "applied_date": "2026-08-18",
+    "date_source": "filename",
+    "skills_required": [
+      "AI / GenAI / ML",
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 76
+  },
+  {
+    "company": "OpenAI",
+    "role": "TechnicalProgramManagerStrategicInitiatives",
+    "source_file": "OpenAI_TechnicalProgramManagerStrategicInitiatives_18AUG_SFO.pdf",
+    "applied_date": "2026-08-18",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 77
+  },
+  {
+    "company": "SeniorProjectManagerMedicaidTechnologyOperations",
+    "role": "(role unclear from filename)",
+    "source_file": "SeniorProjectManagerMedicaidTechnologyOperations_Hawaii_Remote_VAN_18AUG.pdf",
+    "applied_date": "2026-08-18",
+    "date_source": "filename",
+    "skills_required": [],
+    "notes": "",
+    "excluded": false,
+    "id": 78
+  },
+  {
+    "company": "Stripe",
+    "role": "TechnicalProgramManager,Bridge",
+    "source_file": "Stripe_TechnicalProgramManager,Bridge_SF_Hybrid_18AUG.pdf",
+    "applied_date": "2026-08-18",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 79
+  },
+  {
+    "company": "SutterHealth",
+    "role": "Innovation Program Manager",
+    "source_file": "SutterHealth_Innovation Program Manager_AUG18_SF.pdf",
+    "applied_date": "2026-08-18",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 80
+  },
+  {
+    "company": "TechnicalProgramManagerMarketingProgramshybridSFO",
+    "role": "(role unclear from filename)",
+    "source_file": "TechnicalProgramManagerMarketingProgramshybridSFO_VAN_18AUG.pdf",
+    "applied_date": "2026-08-18",
+    "date_source": "filename",
+    "skills_required": [],
+    "notes": "",
+    "excluded": false,
+    "id": 81
+  },
+  {
+    "company": "Visa",
+    "role": "ProgramManagerGovernanceOperationsKnowledgeManagement",
+    "source_file": "Visa_ProgramManagerGovernanceOperationsKnowledgeManagement_FC_18AUG.pdf",
+    "applied_date": "2026-08-18",
+    "date_source": "filename",
+    "skills_required": [
+      "Compliance / Risk / Governance",
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 82
+  },
+  {
+    "company": "Affirm",
+    "role": "Staff Technical Program Manage RemoteAug18",
+    "source_file": "Affirm_Staff Technical Program Manage_RemoteAug18.pdf",
+    "applied_date": "2026-08-19",
+    "date_source": "mtime",
+    "skills_required": [],
+    "notes": "",
+    "excluded": false,
+    "id": 83
+  },
+  {
+    "company": "BlackHawk",
+    "role": "StaffTechnicalProgramManagerAI",
+    "source_file": "BlackHawk_StaffTechnicalProgramManagerAI_Pleasonton_AUG19.pdf",
+    "applied_date": "2026-08-19",
+    "date_source": "filename",
+    "skills_required": [
+      "AI / GenAI / ML",
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 84
+  },
+  {
+    "company": "FreshWorks",
+    "role": "Staff Program Manager - Voice of the Customer Programs",
+    "source_file": "FreshWorks_Staff Program Manager - Voice of the Customer Programs_SanMateo.pdf",
+    "applied_date": "2026-08-19",
+    "date_source": "mtime",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 85
+  },
+  {
+    "company": "Gallo",
+    "role": "Sales Central Operations Manager",
+    "source_file": "Gallo_Sales Central Operations Manager_AUG19.pdf",
+    "applied_date": "2026-08-19",
+    "date_source": "filename",
+    "skills_required": [],
+    "notes": "",
+    "excluded": false,
+    "id": 86
+  },
+  {
+    "company": "Kunai",
+    "role": "Technical Program ManagerRemote",
+    "source_file": "Kunai_Technical Program ManagerRemote_19AUG.pdf",
+    "applied_date": "2026-08-19",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 87
+  },
+  {
+    "company": "LamSearch",
+    "role": "AI Agent Program Manager Brahmdeep",
+    "source_file": "LamSearch_AI Agent Program Manager_Fremont_AUG19_Brahmdeep.pdf",
+    "applied_date": "2026-08-19",
+    "date_source": "filename",
+    "skills_required": [
+      "AI / GenAI / ML",
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 88
+  },
+  {
+    "company": "Maven",
+    "role": "AIAgentProgramManager",
+    "source_file": "Maven_AIAgentProgramManager_Fremont_19AUG_Contract.pdf",
+    "applied_date": "2026-08-19",
+    "date_source": "filename",
+    "skills_required": [
+      "AI / GenAI / ML",
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 89
+  },
+  {
+    "company": "PGE",
+    "role": "Program Manager, Principal",
+    "source_file": "PGE_Program Manager, Principal_SanRamon_FTE_19AUG.pdf",
+    "applied_date": "2026-08-19",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 90
+  },
+  {
+    "company": "Plaid",
+    "role": "TPM",
+    "source_file": "Plaid_TPM_SF_19AUG.pdf",
+    "applied_date": "2026-08-19",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 91
+  },
+  {
+    "company": "Stripe",
+    "role": "ManagerRiskOperationsTechnologyPrograms",
+    "source_file": "Stripe_ManagerRiskOperationsTechnologyPrograms_Remote.pdf",
+    "applied_date": "2026-08-19",
+    "date_source": "mtime",
+    "skills_required": [
+      "Compliance / Risk / Governance"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 92
+  },
+  {
+    "company": "Stripe",
+    "role": "StrategicProgramManagerSupport",
+    "source_file": "Stripe_StrategicProgramManagerSupport_Remote.pdf",
+    "applied_date": "2026-08-19",
+    "date_source": "mtime",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 93
+  },
+  {
+    "company": "Valon",
+    "role": "TechnicalProgramManager",
+    "source_file": "Valon_TechnicalProgramManager_SF_19AUG.pdf",
+    "applied_date": "2026-08-19",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 94
+  },
+  {
+    "company": "Fox Rothschild",
+    "role": "IS Project Manager",
+    "source_file": "IS Project Manager_Fox Rothschild/Intuit.pdf",
+    "applied_date": "2026-08-19",
+    "date_source": "mtime",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "via recruiter folder 'IS Project Manager_Fox Rothschild'",
+    "excluded": false,
+    "id": 95
+  },
+  {
+    "company": "Visa",
+    "role": "LeadTPM",
+    "source_file": "Visa_LeadTPM_Austin_20AUG.pdf",
+    "applied_date": "2026-08-20",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 96
+  },
+  {
+    "company": "Workday",
+    "role": "PortfolioDeliveryLeadOrdetoCash",
+    "source_file": "Workday_PortfolioDeliveryLeadOrdetoCash_20Aug_Pleasonton.pdf",
+    "applied_date": "2026-08-20",
+    "date_source": "filename",
+    "skills_required": [],
+    "notes": "",
+    "excluded": false,
+    "id": 97
+  },
+  {
+    "company": "Workday",
+    "role": "SeniorProgramManagerSecurityProductDev",
+    "source_file": "Workday_SeniorProgramManagerSecurityProductDev_20AUG_Pleasonton.pdf",
+    "applied_date": "2026-08-20",
+    "date_source": "filename",
+    "skills_required": [
+      "Cybersecurity",
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 98
+  },
+  {
+    "company": "Microsoft",
+    "role": "SeniorTechnicalProgramManager",
+    "source_file": "Microsoft_SeniorTechnicalProgramManager_AUG21.pdf",
+    "applied_date": "2026-08-21",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 99
+  },
+  {
+    "company": "VISA",
+    "role": "Senior Technical Program Manager",
+    "source_file": "VISA_Senior Technical Program Manager_AUG21.pdf",
+    "applied_date": "2026-08-21",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 100
+  },
+  {
+    "company": "GSPANN",
+    "role": "AI PRogramManager",
+    "source_file": "GSPANN_AI PRogramManager_Fremont_24AUG.pdf",
+    "applied_date": "2026-08-24",
+    "date_source": "filename",
+    "skills_required": [
+      "AI / GenAI / ML",
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 101
+  },
+  {
+    "company": "Lifted",
+    "role": "ProgramManager",
+    "source_file": "Lifted_ProgramManager_24AUG.pdf",
+    "applied_date": "2026-08-24",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 102
+  },
+  {
+    "company": "Amazon",
+    "role": "SrTechnicalProgramManagerAdvertiserGrowthTechnologies",
+    "source_file": "Amazon_SrTechnicalProgramManagerAdvertiserGrowthTechnologies_PaloAlto_25AUG.pdf",
+    "applied_date": "2026-08-25",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 103
+  },
+  {
+    "company": "Kaiser",
+    "role": "Principal Project Management Consultant",
+    "source_file": "Kaiser_Principal Project Management Consultant_AUG25.pdf",
+    "applied_date": "2026-08-25",
+    "date_source": "filename",
+    "skills_required": [],
+    "notes": "",
+    "excluded": false,
+    "id": 104
+  },
+  {
+    "company": "LamSearch",
+    "role": "SeniorProjectManagerAI",
+    "source_file": "LamSearch_SeniorProjectManagerAI_Fremont_25AUG.pdf",
+    "applied_date": "2026-08-25",
+    "date_source": "filename",
+    "skills_required": [
+      "AI / GenAI / ML",
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 105
+  },
+  {
+    "company": "SPectaForce",
+    "role": "ITProjectManagerIII",
+    "source_file": "SPectaForce_ITProjectManagerIII_25AUG.pdf",
+    "applied_date": "2026-08-25",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 106
+  },
+  {
+    "company": "Uber",
+    "role": "TechnicalProgramManagerII",
+    "source_file": "Uber_TechnicalProgramManagerII_25AUG.pdf",
+    "applied_date": "2026-08-25",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 107
+  },
+  {
+    "company": "Akasa",
+    "role": "SrTechnicalProgramManager 26thAUG",
+    "source_file": "Akasa_SrTechnicalProgramManager_26thAUG.pdf",
+    "applied_date": "2026-08-26",
+    "date_source": "mtime",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 108
+  },
+  {
+    "company": null,
+    "role": null,
+    "source_file": "gagandeep_Kaur_25thAUG2026.pdf",
+    "applied_date": "2026-08-26",
+    "date_source": "mtime",
+    "skills_required": [],
+    "notes": "Not an application; a saved copy of the base resume.",
+    "excluded": true,
+    "id": 109
+  },
+  {
+    "company": "VISA",
+    "role": "TechnicalProgramManagerAI 1stSept",
+    "source_file": "VISA_TechnicalProgramManagerAI_1stSept.pdf",
+    "applied_date": "2026-09-01",
+    "date_source": "mtime",
+    "skills_required": [
+      "AI / GenAI / ML",
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 110
+  },
+  {
+    "company": "Apple",
+    "role": "PMmusicmlInfrastructure",
+    "source_file": "Apple_PMmusicmlInfrastructure_2Sept.pdf",
+    "applied_date": "2026-09-02",
+    "date_source": "filename",
+    "skills_required": [
+      "Infrastructure / DevOps"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 111
+  },
+  {
+    "company": "Apple",
+    "role": "Apple EPM Marketing",
+    "source_file": "Apple_Apple_EPM_Marketing_4Sept.pdf",
+    "applied_date": "2026-09-04",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 112
+  },
+  {
+    "company": "Deepgram",
+    "role": "SeniorTPMEngg",
+    "source_file": "Deepgram_SeniorTPMEngg_Sept4.pdf",
+    "applied_date": "2026-09-04",
+    "date_source": "filename",
+    "skills_required": [],
+    "notes": "",
+    "excluded": false,
+    "id": 113
+  },
+  {
+    "company": "ESolutions",
+    "role": "Agile ScrumMaster",
+    "source_file": "ESolutions_Agile_ScrumMaster_4SEPT.pdf",
+    "applied_date": "2026-09-04",
+    "date_source": "filename",
+    "skills_required": [
+      "Agile / Scrum"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 114
+  },
+  {
+    "company": "Figma",
+    "role": "TPM Data",
+    "source_file": "Figma_TPM_Data_4SEP.pdf",
+    "applied_date": "2026-09-04",
+    "date_source": "filename",
+    "skills_required": [
+      "Data / Analytics",
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 115
+  },
+  {
+    "company": "StripeTechnicalProgramManagerBridge",
+    "role": "(role unclear from filename)",
+    "source_file": "StripeTechnicalProgramManagerBridge_4SEPT.pdf",
+    "applied_date": "2026-09-04",
+    "date_source": "filename",
+    "skills_required": [],
+    "notes": "",
+    "excluded": false,
+    "id": 116
+  },
+  {
+    "company": "Intuit",
+    "role": "PM IVAIAgent-DrivenDevelopment 6thSept",
+    "source_file": "Intuit_PM_IVAIAgent-DrivenDevelopment_6thSept.pdf",
+    "applied_date": "2026-09-07",
+    "date_source": "mtime",
+    "skills_required": [],
+    "notes": "",
+    "excluded": false,
+    "id": 117
+  },
+  {
+    "company": "Amazon",
+    "role": "Principal TPM TechCustomerSuccessCOEAWS",
+    "source_file": "Amazon_Principal_TPM_TechCustomerSuccessCOEAWS_9Sept.pdf",
+    "applied_date": "2026-09-09",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 118
+  },
+  {
+    "company": "Amazon",
+    "role": "SrTPMRufus",
+    "source_file": "Amazon_SrTPMRufus.pdf",
+    "applied_date": "2026-09-09",
+    "date_source": "mtime",
+    "skills_required": [],
+    "notes": "",
+    "excluded": false,
+    "id": 119
+  },
+  {
+    "company": "AmazonSrTPMSmartVehicles",
+    "role": "(role unclear from filename)",
+    "source_file": "AmazonSrTPMSmartVehicles_9Sept.pdf",
+    "applied_date": "2026-09-09",
+    "date_source": "filename",
+    "skills_required": [],
+    "notes": "",
+    "excluded": false,
+    "id": 120
+  },
+  {
+    "company": "Anthropic",
+    "role": "TPMLaunches",
+    "source_file": "Anthropic_TPMLaunches _9Sept.pdf",
+    "applied_date": "2026-09-09",
+    "date_source": "filename",
+    "skills_required": [],
+    "notes": "",
+    "excluded": false,
+    "id": 121
+  },
+  {
+    "company": "Moloco",
+    "role": "TPM Creatives",
+    "source_file": "Moloco_TPM_Creatives_9Sept.pdf",
+    "applied_date": "2026-09-09",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 122
+  },
+  {
+    "company": "Pinterest",
+    "role": "Identity TPM",
+    "source_file": "Pinterest_Identity_TPM_9Sept.pdf",
+    "applied_date": "2026-09-09",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 123
+  },
+  {
+    "company": "ZOOX",
+    "role": "TPM AI",
+    "source_file": "ZOOX_TPM_ AI_9Sept.pdf",
+    "applied_date": "2026-09-09",
+    "date_source": "filename",
+    "skills_required": [
+      "AI / GenAI / ML",
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 124
+  },
+  {
+    "company": "ASK Consulting",
+    "role": "PMO PM",
+    "source_file": "Gagandeep_Kaur_Hanjot_Resume_ASKConsulting_PMO_PM_9Sept.pdf",
+    "applied_date": "2026-09-09",
+    "date_source": "filename",
+    "skills_required": [],
+    "notes": "resume tailored for ASK Consulting",
+    "excluded": false,
+    "id": 125
+  },
+  {
+    "company": "Airbnb",
+    "role": "AI Implementation TPM",
+    "source_file": "Airbnb_AI_Implementation_TPM_11Sept.pdf",
+    "applied_date": "2026-09-11",
+    "date_source": "filename",
+    "skills_required": [
+      "AI / GenAI / ML",
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 126
+  },
+  {
+    "company": "RadNet",
+    "role": "IntelligentAutomation PM",
+    "source_file": "RadNet_IntelligentAutomation_PM_11Sept.pdf",
+    "applied_date": "2026-09-11",
+    "date_source": "filename",
+    "skills_required": [],
+    "notes": "",
+    "excluded": false,
+    "id": 127
+  },
+  {
+    "company": "Amazon",
+    "role": "PrimeVideo SrTPM",
+    "source_file": "Amazon_PrimeVideo_SrTPM_14Sept.pdf",
+    "applied_date": "2026-09-14",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 128
+  },
+  {
+    "company": "Computacenter",
+    "role": "ProgramManager",
+    "source_file": "Computacenter_ProgramManager_14Sept.pdf",
+    "applied_date": "2026-09-14",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 129
+  },
+  {
+    "company": "CrowdStrike",
+    "role": "SrProgramManager TER",
+    "source_file": "CrowdStrike_SrProgramManager_TER_14SEPT.pdf",
+    "applied_date": "2026-09-14",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 130
+  },
+  {
+    "company": "Jobott",
+    "role": "ProgramQualityManager",
+    "source_file": "Jobott_ProgramQualityManager_14Sept.pdf",
+    "applied_date": "2026-09-14",
+    "date_source": "filename",
+    "skills_required": [],
+    "notes": "",
+    "excluded": false,
+    "id": 131
+  },
+  {
+    "company": "Microsoft",
+    "role": "WindowsFeedbackHub PrincipalPM",
+    "source_file": "Microsoft_WindowsFeedbackHub_PrincipalPM14Sept.pdf",
+    "applied_date": "2026-09-14",
+    "date_source": "filename",
+    "skills_required": [],
+    "notes": "",
+    "excluded": false,
+    "id": 132
+  },
+  {
+    "company": "OpenAI",
+    "role": "SecurityTPM",
+    "source_file": "OpenAI_SecurityTPM_14Sept.pdf",
+    "applied_date": "2026-09-14",
+    "date_source": "filename",
+    "skills_required": [
+      "Cybersecurity",
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 133
+  },
+  {
+    "company": "Oracle",
+    "role": "OCI PrincipalPM",
+    "source_file": "Oracle_OCI_PrincipalPM_14Sept.pdf",
+    "applied_date": "2026-09-14",
+    "date_source": "filename",
+    "skills_required": [],
+    "notes": "",
+    "excluded": false,
+    "id": 134
+  },
+  {
+    "company": "Stripe",
+    "role": "GTM StrategicProgramManager",
+    "source_file": "Stripe_GTM_StrategicProgramManager_14Sept.pdf",
+    "applied_date": "2026-09-14",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 135
+  },
+  {
+    "company": "TikTokUSDS",
+    "role": "OpEx TPM",
+    "source_file": "TikTokUSDS_OpEx_TPM_14Sept.pdf",
+    "applied_date": "2026-09-14",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 136
+  },
+  {
+    "company": null,
+    "role": null,
+    "source_file": "Gagandeep_Kaur_Resume_BA_ScrumMaster.pdf",
+    "applied_date": "2026-09-14",
+    "date_source": "mtime",
+    "skills_required": [],
+    "notes": "Not an application; a saved copy of the base resume.",
+    "excluded": true,
+    "id": 137
+  },
+  {
+    "company": "Amex",
+    "role": "SecureAI PM",
+    "source_file": "Amex_SecureAI_PM_15Sept.pdf",
+    "applied_date": "2026-09-15",
+    "date_source": "filename",
+    "skills_required": [
+      "AI / GenAI / ML"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 138
+  },
+  {
+    "company": "AV",
+    "role": "ProgramManager",
+    "source_file": "AV_FosterCity_ProgramManager_15Sept.pdf",
+    "applied_date": "2026-09-15",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 139
+  },
+  {
+    "company": "Docusign",
+    "role": "ProductSecurity TPM",
+    "source_file": "Docusign_ProductSecurity_TPM15Sept.pdf",
+    "applied_date": "2026-09-15",
+    "date_source": "filename",
+    "skills_required": [
+      "Cybersecurity",
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 140
+  },
+  {
+    "company": "Google",
+    "role": "R3 Compliance TPM",
+    "source_file": "Google_R3_Compliance_TPM_15Sept.pdf",
+    "applied_date": "2026-09-15",
+    "date_source": "filename",
+    "skills_required": [
+      "Compliance / Risk / Governance",
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 141
+  },
+  {
+    "company": "LamResearch",
+    "role": "AI PMO",
+    "source_file": "LamResearch_AI_PMO_15Sept.pdf",
+    "applied_date": "2026-09-15",
+    "date_source": "filename",
+    "skills_required": [
+      "AI / GenAI / ML"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 142
+  },
+  {
+    "company": "LamResearch",
+    "role": "EnterpriseAI OCTO",
+    "source_file": "LamResearch_EnterpriseAI_OCTO_15Sept.pdf",
+    "applied_date": "2026-09-15",
+    "date_source": "filename",
+    "skills_required": [
+      "AI / GenAI / ML"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 143
+  },
+  {
+    "company": "Mainspring",
+    "role": "SWE TPM",
+    "source_file": "Mainspring_SWE_TPM_15Sept.pdf",
+    "applied_date": "2026-09-15",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 144
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Nemotron Data TPM",
+    "source_file": "NVIDIA_Nemotron_Data_TPM_15Sept.pdf",
+    "applied_date": "2026-09-15",
+    "date_source": "filename",
+    "skills_required": [
+      "Data / Analytics",
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 145
+  },
+  {
+    "company": "PNNL",
+    "role": "TPM",
+    "source_file": "PNNL_TPM_15Sept.pdf",
+    "applied_date": "2026-09-15",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 146
+  },
+  {
+    "company": "RemoteHunterMediaEnt",
+    "role": "CyberSecurity PM",
+    "source_file": "RemoteHunterMediaEnt_CyberSecurity_PM_15Sept.pdf",
+    "applied_date": "2026-09-15",
+    "date_source": "filename",
+    "skills_required": [
+      "Cybersecurity"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 147
+  },
+  {
+    "company": "TalentHop",
+    "role": "CloudStorage Security TPM v2 3",
+    "source_file": "TalentHop_CloudStorage_Security_TPM_v2_3.pdf",
+    "applied_date": "2026-09-15",
+    "date_source": "mtime",
+    "skills_required": [
+      "Cybersecurity",
+      "Cloud (general)",
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 148
+  },
+  {
+    "company": "USTech",
+    "role": "BusinessMessaging PM",
+    "source_file": "USTech_BusinessMessaging_PM_15Sept.pdf",
+    "applied_date": "2026-09-15",
+    "date_source": "filename",
+    "skills_required": [],
+    "notes": "",
+    "excluded": false,
+    "id": 149
+  },
+  {
+    "company": "Workday",
+    "role": "Tundra Salesforce TPM",
+    "source_file": "Workday_Tundra_Salesforce_TPM_15Sept.pdf",
+    "applied_date": "2026-09-15",
+    "date_source": "filename",
+    "skills_required": [
+      "Salesforce",
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 150
+  },
+  {
+    "company": "Girikon",
+    "role": "EnterpriseAI PM",
+    "source_file": "Girikon_EnterpriseAI_PM_16Sept.pdf",
+    "applied_date": "2026-09-16",
+    "date_source": "filename",
+    "skills_required": [
+      "AI / GenAI / ML"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 151
+  },
+  {
+    "company": "PGE",
+    "role": "ElectricTD ProgramManager",
+    "source_file": "PGE_ElectricTD_ProgramManager_16Sept.pdf",
+    "applied_date": "2026-09-16",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 152
+  },
+  {
+    "company": "PGE",
+    "role": "ElectricTD ProgramManager 26",
+    "source_file": "PGE_ElectricTD_ProgramManager_16Sept2026.pdf",
+    "applied_date": "2026-09-16",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 153
+  },
+  {
+    "company": "SanRamon",
+    "role": "TPM Ecommerce",
+    "source_file": "SanRamon_TPM_Ecommerce_16Sept.pdf",
+    "applied_date": "2026-09-16",
+    "date_source": "filename",
+    "skills_required": [
+      "Program / Project Management"
+    ],
+    "notes": "",
+    "excluded": false,
+    "id": 154
+  }
+]
