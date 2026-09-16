@@ -60,6 +60,17 @@ async def main():
             })
             print(json.dumps(_result(r), indent=2))
 
+            print("\n=== update_application(job_description=...) re-tags from real JD text ===")
+            r = await session.call_tool("update_application", {
+                "id": new_app["id"],
+                "job_url": "https://example.com/jobs/testco-pm",
+                "job_description": "Looking for a Program Manager with Cybersecurity and Compliance experience.",
+            })
+            retagged = _result(r)
+            print(json.dumps(retagged, indent=2))
+            assert "Cybersecurity" in retagged["skills_required"], "job_description should re-tag skills_required"
+            assert retagged["job_url"] == "https://example.com/jobs/testco-pm"
+
             print("\n=== get_course_priority() ===")
             r = await session.call_tool("get_course_priority", {})
             for row in _result(r)[:5]:

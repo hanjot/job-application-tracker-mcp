@@ -6,6 +6,8 @@
     "applied_date": "2026-08-07",
     "date_source": "mtime",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "Not an application; a saved copy of the base resume.",
     "excluded": true,
     "id": 1
@@ -17,6 +19,8 @@
     "applied_date": "2026-08-10",
     "date_source": "filename",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 2
@@ -28,6 +32,8 @@
     "applied_date": "2026-08-10",
     "date_source": "filename",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 3
@@ -41,6 +47,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 4
@@ -54,6 +62,8 @@
     "skills_required": [
       "Data / Analytics"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 5
@@ -65,6 +75,8 @@
     "applied_date": "2026-08-10",
     "date_source": "filename",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 6
@@ -76,6 +88,8 @@
     "applied_date": "2026-08-10",
     "date_source": "filename",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 7
@@ -89,6 +103,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 8
@@ -100,6 +116,8 @@
     "applied_date": "2026-08-10",
     "date_source": "filename",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 9
@@ -114,6 +132,8 @@
       "Infrastructure / DevOps",
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 10
@@ -128,6 +148,8 @@
       "Infrastructure / DevOps",
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 11
@@ -141,6 +163,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 12
@@ -154,6 +178,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 13
@@ -167,6 +193,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "via recruiter folder 'IS Project Manager_Fox Rothschild'",
     "excluded": false,
     "id": 14
@@ -181,6 +209,8 @@
       "Infrastructure / DevOps",
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 15
@@ -192,6 +222,8 @@
     "applied_date": "2026-08-11",
     "date_source": "filename",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 16
@@ -203,6 +235,8 @@
     "applied_date": "2026-08-11",
     "date_source": "filename",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 17
@@ -216,6 +250,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 18
@@ -227,6 +263,8 @@
     "applied_date": "2026-08-11",
     "date_source": "filename",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 19
@@ -240,6 +278,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 20
@@ -253,6 +293,8 @@
     "skills_required": [
       "AI / GenAI / ML"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 21
@@ -266,6 +308,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 22
@@ -279,6 +323,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 23
@@ -293,6 +339,8 @@
       "AI / GenAI / ML",
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 24
@@ -304,6 +352,8 @@
     "applied_date": "2026-08-11",
     "date_source": "filename",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 25
@@ -318,6 +368,8 @@
       "AI / GenAI / ML",
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 26
@@ -331,6 +383,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 27
@@ -344,6 +398,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 28
@@ -357,6 +413,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 29
@@ -368,6 +426,8 @@
     "applied_date": "2026-08-11",
     "date_source": "filename",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 30
@@ -379,6 +439,8 @@
     "applied_date": "2026-08-11",
     "date_source": "filename",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 31
@@ -392,6 +454,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 32
@@ -405,6 +469,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 33
@@ -416,6 +482,8 @@
     "applied_date": "2026-08-12",
     "date_source": "filename",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 34
@@ -429,6 +497,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 35
@@ -443,6 +513,8 @@
       "AI / GenAI / ML",
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 36
@@ -456,6 +528,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 37
@@ -469,6 +543,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 38
@@ -482,6 +558,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 39
@@ -495,6 +573,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 40
@@ -509,6 +589,8 @@
       "AI / GenAI / ML",
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 41
@@ -522,6 +604,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 42
@@ -535,6 +619,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 43
@@ -548,6 +634,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 44
@@ -561,6 +649,8 @@
     "skills_required": [
       "Data / Analytics"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 45
@@ -574,6 +664,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 46
@@ -587,6 +679,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 47
@@ -600,6 +694,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 48
@@ -614,6 +710,8 @@
       "AI / GenAI / ML",
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 49
@@ -627,6 +725,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 50
@@ -638,6 +738,8 @@
     "applied_date": "2026-08-12",
     "date_source": "filename",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 51
@@ -651,6 +753,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 52
@@ -664,6 +768,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 53
@@ -677,6 +783,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 54
@@ -690,6 +798,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 55
@@ -703,6 +813,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 56
@@ -716,6 +828,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 57
@@ -727,6 +841,8 @@
     "applied_date": "2026-08-13",
     "date_source": "filename",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 58
@@ -740,6 +856,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 59
@@ -753,6 +871,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 60
@@ -764,6 +884,8 @@
     "applied_date": "2026-08-13",
     "date_source": "filename",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 61
@@ -777,6 +899,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 62
@@ -791,6 +915,8 @@
       "Cybersecurity",
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 63
@@ -804,6 +930,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 64
@@ -817,6 +945,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 65
@@ -828,6 +958,8 @@
     "applied_date": "2026-08-14",
     "date_source": "filename",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 66
@@ -842,6 +974,8 @@
       "Payments / FinTech",
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 67
@@ -855,6 +989,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 68
@@ -868,6 +1004,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 69
@@ -881,6 +1019,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 70
@@ -894,6 +1034,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 71
@@ -908,6 +1050,8 @@
       "Cybersecurity",
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 72
@@ -922,6 +1066,8 @@
       "AI / GenAI / ML",
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 73
@@ -933,6 +1079,8 @@
     "applied_date": "2026-08-18",
     "date_source": "mtime",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 74
@@ -946,6 +1094,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 75
@@ -960,6 +1110,8 @@
       "AI / GenAI / ML",
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 76
@@ -973,6 +1125,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 77
@@ -984,6 +1138,8 @@
     "applied_date": "2026-08-18",
     "date_source": "filename",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 78
@@ -997,6 +1153,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 79
@@ -1010,6 +1168,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 80
@@ -1021,6 +1181,8 @@
     "applied_date": "2026-08-18",
     "date_source": "filename",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 81
@@ -1035,6 +1197,8 @@
       "Compliance / Risk / Governance",
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 82
@@ -1046,6 +1210,8 @@
     "applied_date": "2026-08-19",
     "date_source": "mtime",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 83
@@ -1060,6 +1226,8 @@
       "AI / GenAI / ML",
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 84
@@ -1073,6 +1241,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 85
@@ -1084,6 +1254,8 @@
     "applied_date": "2026-08-19",
     "date_source": "filename",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 86
@@ -1097,6 +1269,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 87
@@ -1111,6 +1285,8 @@
       "AI / GenAI / ML",
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 88
@@ -1125,6 +1301,8 @@
       "AI / GenAI / ML",
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 89
@@ -1138,6 +1316,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 90
@@ -1151,6 +1331,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 91
@@ -1164,6 +1346,8 @@
     "skills_required": [
       "Compliance / Risk / Governance"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 92
@@ -1177,6 +1361,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 93
@@ -1190,6 +1376,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 94
@@ -1203,6 +1391,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "via recruiter folder 'IS Project Manager_Fox Rothschild'",
     "excluded": false,
     "id": 95
@@ -1216,6 +1406,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 96
@@ -1227,6 +1419,8 @@
     "applied_date": "2026-08-20",
     "date_source": "filename",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 97
@@ -1241,6 +1435,8 @@
       "Cybersecurity",
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 98
@@ -1254,6 +1450,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 99
@@ -1267,6 +1465,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 100
@@ -1281,6 +1481,8 @@
       "AI / GenAI / ML",
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 101
@@ -1294,6 +1496,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 102
@@ -1307,6 +1511,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 103
@@ -1318,6 +1524,8 @@
     "applied_date": "2026-08-25",
     "date_source": "filename",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 104
@@ -1332,6 +1540,8 @@
       "AI / GenAI / ML",
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 105
@@ -1345,6 +1555,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 106
@@ -1358,6 +1570,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 107
@@ -1371,6 +1585,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 108
@@ -1382,6 +1598,8 @@
     "applied_date": "2026-08-26",
     "date_source": "mtime",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "Not an application; a saved copy of the base resume.",
     "excluded": true,
     "id": 109
@@ -1396,6 +1614,8 @@
       "AI / GenAI / ML",
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 110
@@ -1409,6 +1629,8 @@
     "skills_required": [
       "Infrastructure / DevOps"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 111
@@ -1422,6 +1644,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 112
@@ -1433,6 +1657,8 @@
     "applied_date": "2026-09-04",
     "date_source": "filename",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 113
@@ -1446,6 +1672,8 @@
     "skills_required": [
       "Agile / Scrum"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 114
@@ -1460,6 +1688,8 @@
       "Data / Analytics",
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 115
@@ -1471,6 +1701,8 @@
     "applied_date": "2026-09-04",
     "date_source": "filename",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 116
@@ -1482,6 +1714,8 @@
     "applied_date": "2026-09-07",
     "date_source": "mtime",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 117
@@ -1495,6 +1729,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 118
@@ -1506,6 +1742,8 @@
     "applied_date": "2026-09-09",
     "date_source": "mtime",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 119
@@ -1517,6 +1755,8 @@
     "applied_date": "2026-09-09",
     "date_source": "filename",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 120
@@ -1528,6 +1768,8 @@
     "applied_date": "2026-09-09",
     "date_source": "filename",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 121
@@ -1541,6 +1783,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 122
@@ -1554,6 +1798,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 123
@@ -1568,6 +1814,8 @@
       "AI / GenAI / ML",
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 124
@@ -1579,6 +1827,8 @@
     "applied_date": "2026-09-09",
     "date_source": "filename",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "resume tailored for ASK Consulting",
     "excluded": false,
     "id": 125
@@ -1593,6 +1843,8 @@
       "AI / GenAI / ML",
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 126
@@ -1604,6 +1856,8 @@
     "applied_date": "2026-09-11",
     "date_source": "filename",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 127
@@ -1617,6 +1871,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 128
@@ -1630,6 +1886,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 129
@@ -1643,6 +1901,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 130
@@ -1654,6 +1914,8 @@
     "applied_date": "2026-09-14",
     "date_source": "filename",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 131
@@ -1665,6 +1927,8 @@
     "applied_date": "2026-09-14",
     "date_source": "filename",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 132
@@ -1679,6 +1943,8 @@
       "Cybersecurity",
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 133
@@ -1690,6 +1956,8 @@
     "applied_date": "2026-09-14",
     "date_source": "filename",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 134
@@ -1703,6 +1971,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 135
@@ -1716,6 +1986,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 136
@@ -1727,6 +1999,8 @@
     "applied_date": "2026-09-14",
     "date_source": "mtime",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "Not an application; a saved copy of the base resume.",
     "excluded": true,
     "id": 137
@@ -1740,6 +2014,8 @@
     "skills_required": [
       "AI / GenAI / ML"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 138
@@ -1753,6 +2029,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 139
@@ -1767,6 +2045,8 @@
       "Cybersecurity",
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 140
@@ -1781,6 +2061,8 @@
       "Compliance / Risk / Governance",
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 141
@@ -1794,6 +2076,8 @@
     "skills_required": [
       "AI / GenAI / ML"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 142
@@ -1807,6 +2091,8 @@
     "skills_required": [
       "AI / GenAI / ML"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 143
@@ -1820,6 +2106,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 144
@@ -1834,6 +2122,8 @@
       "Data / Analytics",
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 145
@@ -1847,6 +2137,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 146
@@ -1860,6 +2152,8 @@
     "skills_required": [
       "Cybersecurity"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 147
@@ -1875,6 +2169,8 @@
       "Cloud (general)",
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 148
@@ -1886,6 +2182,8 @@
     "applied_date": "2026-09-15",
     "date_source": "filename",
     "skills_required": [],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 149
@@ -1900,6 +2198,8 @@
       "Salesforce",
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 150
@@ -1913,6 +2213,8 @@
     "skills_required": [
       "AI / GenAI / ML"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 151
@@ -1926,6 +2228,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 152
@@ -1939,6 +2243,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 153
@@ -1952,6 +2258,8 @@
     "skills_required": [
       "Program / Project Management"
     ],
+    "job_url": null,
+    "job_description": null,
     "notes": "",
     "excluded": false,
     "id": 154

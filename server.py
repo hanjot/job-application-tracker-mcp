@@ -30,6 +30,8 @@ from typing import Optional
 
 from mcp.server.fastmcp import FastMCP
 
+from parse_applications import tag_skills
+
 HERE = Path(__file__).parent
 DATA_FILE = HERE / "applications.json"
 
@@ -89,12 +91,18 @@ def add_application(
     company: str,
     role: str,
     applied_date: str,
+    job_url: Optional[str] = None,
+    job_description: Optional[str] = None,
     skills_required: Optional[list[str]] = None,
     notes: str = "",
 ) -> dict:
     """Add a new job application to the tracker. applied_date is YYYY-MM-DD.
-    skills_required is a free-form list of skills/technologies the posting
-    asked for (e.g. ["Salesforce", "SAP", "AI/ML", "Cybersecurity"])."""
+    Pass job_url and job_description when you have them -- when
+    job_description is given, skills_required is tagged automatically from
+    that real posting text (far more accurate than guessing from the
+    title), overriding any skills_required you also pass. If you don't
+    have a job_description yet, skills_required is a free-form list you
+    supply by hand (e.g. ["Salesforce", "SAP", "AI/ML", "Cybersecurity"])."""
     apps = _load()
     new_id = max((a["id"] for a in apps), default=0) + 1
     entry = {
@@ -104,7 +112,9 @@ def add_application(
         "source_file": None,
         "applied_date": applied_date,
         "date_source": "manual",
-        "skills_required": skills_required or [],
+        "skills_required": tag_skills(job_description) if job_description else (skills_required or []),
+        "job_url": job_url,
+        "job_description": job_description,
         "notes": notes,
         "excluded": False,
     }
@@ -118,15 +128,19 @@ def update_application(
     id: int,
     company: Optional[str] = None,
     role: Optional[str] = None,
+    job_url: Optional[str] = None,
+    job_description: Optional[str] = None,
     skills_required: Optional[list[str]] = None,
     add_skill: Optional[str] = None,
     notes: Optional[str] = None,
 ) -> dict:
-    """Update an existing application's company, role, notes, and/or
-    required skills. Pass skills_required to replace the whole skill list
-    (e.g. once you've read the real job posting and want the accurate
-    list), or add_skill to append a single skill without touching the
-    rest. Only the fields you pass are changed."""
+    """Update an existing application's company, role, notes, job link,
+    job description, and/or required skills. Pass job_description once you
+    have the real posting text -- skills_required is then automatically
+    re-tagged from that real text (replacing any title-guessed tags),
+    unless you also pass skills_required explicitly, which wins. add_skill
+    appends a single skill without touching the rest. Only the fields you
+    pass are changed."""
     apps = _load()
     for a in apps:
         if a["id"] == id:
@@ -134,6 +148,11 @@ def update_application(
                 a["company"] = company
             if role:
                 a["role"] = role
+            if job_url is not None:
+                a["job_url"] = job_url
+            if job_description is not None:
+                a["job_description"] = job_description
+                a["skills_required"] = tag_skills(job_description)
             if skills_required is not None:
                 a["skills_required"] = skills_required
             if add_skill and add_skill not in a.get("skills_required", []):
@@ -165,6 +184,7 @@ def get_summary() -> dict:
         for s in a.get("skills_required", []):
             skill_counts[s] += 1
     untagged = sum(1 for a in apps if not a.get("skills_required"))
+    with_real_jd = sum(1 for a in apps if a.get("job_description"))
 
     by_week = Counter()
     for a in apps:
@@ -182,6 +202,7 @@ def get_summary() -> dict:
             sorted(skill_counts.items(), key=lambda kv: -kv[1])
         ),
         "applications_with_no_skill_tag_yet": untagged,
+        "applications_with_real_job_description_saved": with_real_jd,
         "applications_per_week": dict(sorted(by_week.items())),
     }
 

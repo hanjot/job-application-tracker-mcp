@@ -12,16 +12,21 @@ project, this parses her actual application history -- messy real-world
 data cleanup is exactly the kind of problem a TPM solves in their day job.
 
 Fields per application: company, role, applied_date, skills_required,
-source_file, notes. No status/callback tracking -- by request, this
-tracker is about what skills the market is asking for, not about outcomes.
+source_file, job_url, job_description, notes. No status/callback tracking
+-- by request, this tracker is about what skills the market is asking for,
+not about outcomes.
 
-Honest limitation on skills_required: the only text available per
-application is the filename/title (we don't have the original job
-description saved anywhere), so skills_required is a best-effort tag list
-matched against a keyword dictionary run over the company+role text -- not
-a transcription of the real job posting's requirements. Treat it as a
-starting point per entry; refine it with update_application once you've
-looked at the actual posting.
+skills_required accuracy: when a real job_description is saved for an
+application (via add_application/update_application's job_description
+field), skills_required is re-tagged from that actual posting text, which
+is far more accurate than guessing from the title. Applications with no
+saved job_description still fall back to a best-effort tag list matched
+against the title/filename only -- treat those as a starting point, not a
+finished answer.
+
+Re-running this script is safe: it merges with any existing
+applications.json instead of overwriting it, so job_url, job_description,
+and notes you've added by hand are never lost on a re-parse.
 """
 import json
 import re
@@ -134,6 +139,8 @@ def parse_entry(entry):
             "applied_date": mtime_to_date(entry["mtimeMs"]).isoformat(),
             "date_source": "mtime",
             "skills_required": [],
+            "job_url": None,
+            "job_description": None,
             "notes": "Not an application; a saved copy of the base resume.",
             "excluded": True,
         }
@@ -150,6 +157,8 @@ def parse_entry(entry):
             "applied_date": applied_date,
             "date_source": date_source,
             "skills_required": tag_skills(role),
+            "job_url": None,
+            "job_description": None,
             "notes": f"via recruiter folder '{folder}'",
             "excluded": False,
         }
@@ -166,6 +175,8 @@ def parse_entry(entry):
             "applied_date": applied_date,
             "date_source": date_source,
             "skills_required": tag_skills(role),
+            "job_url": None,
+            "job_description": None,
             "notes": entry.get("note", ""),
             "excluded": False,
         }
@@ -190,6 +201,8 @@ def parse_entry(entry):
         "applied_date": applied_date,
         "date_source": date_source,
         "skills_required": tag_skills(role),
+        "job_url": None,
+        "job_description": None,
         "notes": "",
         "excluded": False,
     }
@@ -197,12 +210,38 @@ def parse_entry(entry):
 
 def main():
     raw = json.loads(RAW.read_text())
+
+    # Preserve any manually-added job_url / job_description / notes from an
+    # existing applications.json, keyed by source_file. This is what makes
+    # re-running this script safe once you've started filling in real JDs --
+    # nothing you've typed in gets wiped out.
+    existing_by_source = {}
+    if OUT.exists():
+        for a in json.loads(OUT.read_text()):
+            if a.get("source_file"):
+                existing_by_source[a["source_file"]] = a
+    # Entries added by hand (via add_application, no source_file) have no
+    # raw filename to re-derive from -- carry them forward untouched.
+    manual_entries = [
+        a for a in (json.loads(OUT.read_text()) if OUT.exists() else [])
+        if not a.get("source_file")
+    ]
+
     applications = []
-    for i, entry in enumerate(raw, start=1):
+    for entry in raw:
         parsed = parse_entry(entry)
-        parsed["id"] = i
+        prior = existing_by_source.get(parsed["source_file"])
+        if prior:
+            parsed["job_url"] = prior.get("job_url")
+            parsed["job_description"] = prior.get("job_description")
+            if prior.get("notes"):
+                parsed["notes"] = prior["notes"]
+            # Real JD text beats a title-only guess -- re-tag from it.
+            if prior.get("job_description"):
+                parsed["skills_required"] = tag_skills(prior["job_description"])
         applications.append(parsed)
 
+    applications.extend(manual_entries)
     applications.sort(key=lambda a: a["applied_date"])
     for i, a in enumerate(applications, start=1):
         a["id"] = i
@@ -210,9 +249,12 @@ def main():
     OUT.write_text(json.dumps(applications, indent=2))
     included = [a for a in applications if not a["excluded"]]
     tagged = [a for a in included if a["skills_required"]]
+    with_jd = [a for a in included if a.get("job_description")]
     print(f"Parsed {len(applications)} files -> {len(included)} applications "
           f"({len(applications) - len(included)} excluded as master-resume copies).")
-    print(f"{len(tagged)}/{len(included)} got at least one skill tag from their title.")
+    print(f"{len(tagged)}/{len(included)} got at least one skill tag.")
+    print(f"{len(with_jd)}/{len(included)} have a real saved job description "
+          f"(their skill tags come from that, not a title guess).")
     print(f"Wrote {OUT}")
 
 
